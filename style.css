@@ -173,5 +173,5 @@ ul{
 .social-icons ul li a:hover{
     background-color: #220efb;
     color:#fff;
-
+    border-radius: 5px;
 }
